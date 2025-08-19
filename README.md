@@ -113,11 +113,28 @@ Sistema de Covid - UNIP 2021 (C)
     src="https://i.postimg.cc/sXnLqKdm/Print-Login.png" 
     width="300" 
     height="200"
-    alt="C#" 
-    title="C#"
+    alt="C" 
+    title="C"
     style="display:block;margin-right:25%; border:2px solid white; border-radius:10px;"
     />
   </a>
 </p>
 <br><br><br><br>
+<br><br><br><br>
+INFOTECH - SENAC 2025 (JAVA - API REST)
+<p>
+  
+  <a href="https://github.com/TiagoCostaSantos/InfoTech" >
+    <img
+    align="left"
+    src="https://i.postimg.cc/fyL3CWDy/INFOTECH.png" 
+    width="300" 
+    height="200"
+    alt="java" 
+    title="java"
+    style="display:block;margin-right:25%; border:2px solid white; border-radius:10px;"
+    />
+  </a>
+</p>
+<br><br><br><br><br><br><br><br><br><br><br>
 EM BREVE...

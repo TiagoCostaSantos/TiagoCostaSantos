@@ -110,7 +110,7 @@ Sistema de Covid - UNIP 2021 (C)
   <a href="https://github.com/TiagoCostaSantos/PIM-IV/tree/main" >
     <img
     align="left"
-    src="https://i.postimg.cc/sXnLqKdm/Print-Login.png" 
+    src="https://i.postimg.cc/zBSYDn0c/output-onlinegiftools.gif" 
     width="300" 
     height="200"
     alt="C" 

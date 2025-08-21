@@ -100,41 +100,29 @@ Conforme aprendo desenvolvo diversos projetos, que estão disponíveis no meu Gi
 
 ### 📊 Projetos
 
-<div style="border-left: 4px solid gray; padding: 6px;">
-Aperte em um projeto para ve-lo
+<div>
+Aperte em um projeto para ve-lo, explicação do projeto no read-me de cada!
 </div>
-<br>
-Sistema de Covid - UNIP 2021 (C)
 <p>
-  
-  <a href="https://github.com/TiagoCostaSantos/PIM-IV/tree/main" >
-    <img
-    align="left"
-    src="https://i.postimg.cc/zBSYDn0c/output-onlinegiftools.gif" 
-    width="300" 
+<a href="https://github.com/TiagoCostaSantos/PIM-IV/tree/main">
+  <img
+    src="https://i.postimg.cc/ZYL7Df4L/inf-sistemacovid.png" 
+    width="330" 
     height="200"
     alt="C" 
     title="C"
-    style="display:block;margin-right:25%; border:2px solid white; border-radius:10px;"
-    />
-  </a>
-</p>
-<br><br><br><br>
-<br><br><br><br>
-INFOTECH - SENAC 2025 (JAVA - API REST)
-<p>
-  
-  <a href="https://github.com/TiagoCostaSantos/InfoTech" >
-    <img
-    align="left"
-    src="https://i.postimg.cc/fyL3CWDy/INFOTECH.png" 
-    width="300" 
+  />
+</a>
+&nbsp;
+<a href="https://github.com/TiagoCostaSantos/InfoTech">
+  <img
+    src="https://i.postimg.cc/qq78Fxxm/inf-infotech.png" 
+    width="330" 
     height="200"
     alt="java" 
     title="java"
-    style="display:block;margin-right:25%; border:2px solid white; border-radius:10px;"
-    />
-  </a>
+  />
+</a>
 </p>
-<br><br><br><br><br><br><br><br><br><br><br>
-EM BREVE...
+<br>
+EM CONSTRUÇÃO...

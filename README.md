@@ -3,7 +3,7 @@
 **`Em evolução como desenvolvedor`**
 
 
-Me chamo Tiago Costa Santos, tenho 22 anos e sou de Araraquara, São Paulo. Concluí o Ensino Médio na Etec, junto ao curso técnico de Informática para Internet, onde dei meus primeiros passos na programação. Em seguida, cursei o Tecnólogo em Análise e Desenvolvimento de Sistemas na UNIP. Atualmente, estou realizando o curso de Desenvolvedor Back-End Java no Senac, além de me dedicar a estudos por conta própria.
+Me chamo Tiago Costa Santos, tenho 22 anos e sou de Araraquara, São Paulo. Concluí o Ensino Médio na Etec, junto ao curso técnico de Informática para Internet, onde dei meus primeiros passos na programação. Em seguida, cursei o Tecnólogo em Análise e Desenvolvimento de Sistemas na UNIP, uma especialização no curso de Desenvolvedor Back-End Java no Senac, Atualmente, estou realizando minha pós graduação, além de me dedicar a estudos por conta própria.
 
 Conforme aprendo desenvolvo diversos projetos, que estão disponíveis no meu GitHub logo abaixo.
 

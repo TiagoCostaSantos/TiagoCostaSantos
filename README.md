@@ -105,33 +105,33 @@ Aperte em um projeto para ve-lo, explicação do projeto no read-me de cada!
 </div>
 &nbsp;
 <p>
-<a href="https://github.com/TiagoCostaSantos/PIM-IV/tree/main">
+<a href="https://github.com/TiagoCostaSantos/CaloriesCalculator">
   <img
-    src="https://i.postimg.cc/ZYL7Df4L/inf-sistemacovid.png" 
-width="272.25"
-height="165"
-    alt="C" 
-    title="C"
+    src="https://i.postimg.cc/C1RGfvrX/calories-Calculator-Foto-Github4.png" 
+    width="272.25"
+    height="165"
+    alt="java" 
+    title="java"
   />
 </a>
 &nbsp;
 <a href="https://github.com/TiagoCostaSantos/InfoTech">
   <img
     src="https://i.postimg.cc/qq78Fxxm/inf-infotech.png" 
-width="272.25"
-height="165"
+    width="272.25"
+    height="165"
     alt="java" 
     title="java"
   />
 </a>
 &nbsp;
-<a href="https://github.com/TiagoCostaSantos/CaloriesCalculator">
+<a href="https://github.com/TiagoCostaSantos/PIM-IV/tree/main">
   <img
-    src="https://i.postimg.cc/C1RGfvrX/calories-Calculator-Foto-Github4.png" 
-width="272.25"
-height="165"
-    alt="java" 
-    title="java"
+    src="https://i.postimg.cc/ZYL7Df4L/inf-sistemacovid.png" 
+    width="272.25"
+    height="165"
+    alt="C" 
+    title="C"
   />
 </a>
 </p>

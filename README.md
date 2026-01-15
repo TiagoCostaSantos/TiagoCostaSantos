@@ -98,17 +98,18 @@ Conforme aprendo desenvolvo diversos projetos, que estão disponíveis no meu Gi
 <br/>
 <br/>
 
-### 📊 Projetos
+### 📊 Projetos fixados
 
 <div>
 Aperte em um projeto para ve-lo, explicação do projeto no read-me de cada!
 </div>
+&nbsp;
 <p>
 <a href="https://github.com/TiagoCostaSantos/PIM-IV/tree/main">
   <img
     src="https://i.postimg.cc/ZYL7Df4L/inf-sistemacovid.png" 
-    width="330" 
-    height="200"
+width="272.25"
+height="165"
     alt="C" 
     title="C"
   />
@@ -117,12 +118,21 @@ Aperte em um projeto para ve-lo, explicação do projeto no read-me de cada!
 <a href="https://github.com/TiagoCostaSantos/InfoTech">
   <img
     src="https://i.postimg.cc/qq78Fxxm/inf-infotech.png" 
-    width="330" 
-    height="200"
+width="272.25"
+height="165"
+    alt="java" 
+    title="java"
+  />
+</a>
+&nbsp;
+<a href="https://github.com/TiagoCostaSantos/CaloriesCalculator">
+  <img
+    src="https://i.postimg.cc/C1RGfvrX/calories-Calculator-Foto-Github4.png" 
+width="272.25"
+height="165"
     alt="java" 
     title="java"
   />
 </a>
 </p>
 <br>
-EM CONSTRUÇÃO...
